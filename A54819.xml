@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods providence to the distressed Protestants in Ireland, or, The last proceedings in the province of Mvnster attested by two letters sent from Robert Pickering, clerke, unto Sir Symon Harcourt ... the one dated at Tologh, Ian. 20, the other at Youghall, Ian. 23, 1641 ; wherein is truly related in what manner Youghall was taken by the rebels ...</title>
+            <author>Pickering, Robert, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54819</idno>
+            <idno type="STC">Wing P2151</idno>
+            <idno type="STC">ESTC R30103</idno>
+            <idno type="EEBO-CITATION">11244368</idno>
+            <idno type="OCLC">ocm 11244368</idno>
+            <idno type="VID">47085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1448:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods providence to the distressed Protestants in Ireland, or, The last proceedings in the province of Mvnster attested by two letters sent from Robert Pickering, clerke, unto Sir Symon Harcourt ... the one dated at Tologh, Ian. 20, the other at Youghall, Ian. 23, 1641 ; wherein is truly related in what manner Youghall was taken by the rebels ...</title>
+                  <author>Pickering, Robert, 17th cent.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47085:1" rendition="simple:additions"/>
+            <p>GODS PROVIDENCE to the diſtreſſed Proteſtants in <hi>IRELAND.</hi>
+            </p>
+            <p>OR, The laſt Proceedings in the Province of <hi>MVNSTER.</hi>
+            </p>
+            <p>Atteſted by two Letters ſent from <hi>Robert Pickering</hi> Clerke unto Sir <hi>Symon Harcourt,</hi> Sergeant Major of all the Horſe there arrived.</p>
+            <p>The one dated at <hi>Tologh, Ian.</hi> 20. the other at <hi>Youghall, Ian.</hi> 23. 1641.</p>
+            <p>Wherein is truely related in what manner <hi>Youghall</hi> was taken by the Rebels, <hi>Barry, O Donnell Swillian,</hi> and Sir <hi>Patrick Roach,</hi> and alſo in what diſtreſſe the Earle of <hi>Corke</hi> was in.</p>
+            <p>And how <hi>Youghall</hi> was taken againe three dayes after from the Rebels, by <hi>Rich.</hi> Viſcount <hi>Dun<g ref="char:EOLhyphen"/>garvall,</hi> and the Earles of <hi>Barrimore</hi> and <hi>Kildare,</hi> and o<g ref="char:EOLhyphen"/>thers of my Lord of <hi>Corkes</hi> Tenants, to the number of 7000. my Lord of <hi>Corke,</hi> happily relieved, Sir <hi>Patricke Roach</hi> ſlaine, with 900. with him, <hi>Bar<g ref="char:EOLhyphen"/>ry</hi> the Rebell taken, hanged and quartered, his head ſet upon the Caſtle Gate, and quarters in other parts of the Town, By the laſt Poſt the 2. of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> 1641.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47085:2"/>
+            <pb facs="tcp:47085:2"/>
+            <opener>
+               <dateline>
+                  <hi>Tallough</hi> 18. miles from <hi>Youghall,</hi> 
+                  <date>Ian. 20. 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot hold on my wiſhed ſtory in that accep<g ref="char:EOLhyphen"/>table ſtraine that may be deſired, if not expected at the percloſe of my laſt Letters, by tokens too omminous, J gave a touch that J ſuſpected that which is now come to paſſe, and indeed the ſtreame of our ſucceſſe here depends upon the Fountain of the happy harmony between King and Parliament at home, if that Fountaine be either ſtopped or troubled, our ſtreames muſt needs runne weaker and weaker, untill none at all: wee want many hands, yea, and many too as will appeare by the enſu<g ref="char:EOLhyphen"/>ing ſtory, but if we cannot have them from <hi>England,</hi> it will be to no boote to expect them elſe-where, if there be any in <hi>England;</hi> that either maliciouſly or trayterouſly hinder ayd from us, our bloods be upon their owne heads, for without ſpeedy ſupply, and that a very ſufficient one, we cannot ſtand up long, the enemies encreaſing, and like <hi>Hidra's</hi> heads ap<g ref="char:EOLhyphen"/>pearing every where more and more.</p>
+            <p>
+               <hi>Munſter</hi> where are more conſpicuous plantations of <hi>Engliſh</hi> then of any other Province, as I am certified now ſhakes of the yoake likewiſe: <hi>Youghall</hi> a faire Towne by report, and fa<g ref="char:EOLhyphen"/>mous among thoſe of traffick, as having a faire harbour, is now taken by <hi>Barry, Roach,</hi> and another of the <hi>Swillians,</hi> with five thouſand in their company, none of the Towne making any colour of reſiſtance againſt them, although walled on the Land ſide, and my Lord of <hi>Corke</hi> there with 600 men, which is a ſigne that they were welcome unto the Towne, men whatſo<g ref="char:EOLhyphen"/>ver they were to the Earle, my Lord had ſome ſmall notice of their comming, and therefore got in all his men into the
+<pb facs="tcp:47085:3"/>Caſtle very happily, and with what proviſion he could get either in the Towne or about, with leave or without his Ho<g ref="char:EOLhyphen"/>nour, by credible report hath bin at great charge in fortifying of his-Caſtle which ſtands-upon a Rocke, and is very ſtrongly leaſed, but it is very greatly to be feared that he will want Victualls before be can obtaine reliefe, for our parts he ſent to <hi>Tallough</hi> an <hi>Engliſh</hi> plantation, where we then lay to preſent Sir <hi>Denis Butler,</hi> of whom we had certaine intelligence that he was comming to burne and ſacke that Towne, being a pret<g ref="char:EOLhyphen"/>ty Market Towne all <hi>Engliſh,</hi> neither were wee miſinfor<g ref="char:EOLhyphen"/>med, for he came with 3000. men all in manner well ap<g ref="char:EOLhyphen"/>pointed, he marched on one ſide the River, &amp; we on the other, but it was our fortunes to be on the right ſide of <hi>Tallough,</hi> otherwiſe we ſhould hardly have bin ſo patient, the River was but ſhallow and narrow, but our guides informed us that there was a Bogg between him and us, after we had paſſed the River, it might well be, for the Enemy ſeemed careleſſe of us, and marched diſorderly, ſeeming to give advantage that he might indeed take, but we being on that ſide the River that <hi>Tallough</hi> was of, and being certified by our guides, that if he would or ment to come to <hi>Tallough</hi> that he muſt come over to us except he would flye, and knowing that he came we were able to give him enough we the rather believed our guides concerning the Bogg, and let <hi>Butler</hi> alone, and reco<g ref="char:EOLhyphen"/>vered <hi>Tallough,</hi> ſtanding 8. miles from <hi>Yoghall:</hi> From <hi>Tal<g ref="char:EOLhyphen"/>lough</hi> we ſent (upon his owne entreaty or rather vrgent op<g ref="char:EOLhyphen"/>portunity) <hi>John Douglas</hi> Eſquire, Lievtenant Colonell with 500. tall <hi>Scots</hi> unto the ayd of my Lord of <hi>Corke,</hi> more we could not ſpare, not knowing what courſe the Rebell <hi>Butler</hi> had ſteeted, how farre of he was, what force with him, what might come to him, Colonell <hi>Douglas</hi> deſired that he and his Countrymen might undertake the charge of relieving the Earle, who proffered that he perfectly knew not onely the common Road-way between <hi>Tallough</hi> and <hi>Yoghall</hi> but divers not ordinary cuts and croſſings whereby he not onely truſted to endammage the Enemy, but to doe the Earle good ſervice. Sir-<hi>Symon</hi> had no reaſon but to hearken unto him, we being
+<pb facs="tcp:47085:3"/>all ſtrangers in that place; guide he would have none but his owne footman an <hi>Iriſh</hi>-man, whom J believe his Maſter had either truſted or imployed ſo long upon Meſſages, viewing, diſcoverings, that at length he found away to cut his Maſters throat and all his Companies, within 3 miles of <hi>Yoghall,</hi> paſ<g ref="char:EOLhyphen"/>ſing through a Volley, the one ſide a Wood, the other as it ap<g ref="char:EOLhyphen"/>peared a Mountaine having marched ſome htlfe a mile in it: <hi>Butlers</hi> troopes ſhewed themſelves both behind them in the Volley, charging with his horſe, and likewiſe from the brow of the Wood fiercely playing with ſhot, Col. <hi>Douglas</hi> thought he had no other courſe to breake as well the force of his horſe, as to avoyd the annoyance of his ſhot then to take the Mountain as he tooke it to be, but indeed a blind Bogge as they call them, which here are moſt commonly Mountaines, their na<g ref="char:EOLhyphen"/>ture is ſuch (as our guides informe us) that if a man be ſtill in going he may paſſe cleane over them, but if he ſtand ſtill ne<g ref="char:EOLhyphen"/>ver ſo little in one place, he ſinketh in like a ſhip in the quick Sands, the enemies not unlike knew well the nature of the place, making no great haſt to follow them, <hi>Douglas</hi> there makes a ſtand, thinking to bring his men into better order, and upon a ſudden were up to the belly in water which <hi>But<g ref="char:EOLhyphen"/>ler</hi> perceiving, came upon them with his horſe, they being a<g ref="char:EOLhyphen"/>mazed and ſo incumbred were every man cut off.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>From <hi>Yoghall</hi> eight miles from <hi>Tal<g ref="char:EOLhyphen"/>lough,</hi> 
+                  <date>January 28. 1641.</date>
+               </dateline>
+            </opener>
+            <p>IN point of Warre as ſecuritie may endanger great ſucceſſe ſo vigilancie and heedfullneſſe many times freeth from great and eminent perills, the Earle of Corke ſeeing how the caſe ſtood with him, ſlept nor, and conſidering that as the caſe ſtood with him, he was not able to advantage him<g ref="char:EOLhyphen"/>ſelfe by ſtrength, he thought upon ſome other way, he called for one of his Footemen an <hi>Iriſhman:</hi> that had ſerved him
+<pb facs="tcp:47085:4"/>long time, aſſured him upon his Honour, that if he would venter through the Rebels and make to <hi>Limcon,</hi> where he thought he ſhould find his owne Sonne, <hi>Rich. Vicount Don<g ref="char:EOLhyphen"/>garvell,</hi> and from thence to <hi>Liſmor,</hi> to the Earle of <hi>Barri<g ref="char:EOLhyphen"/>more,</hi> and <hi>Kildare,</hi> and procure ſpeedy reliefe, that he would give him an hundred pounds Sterling at his returne, and an Annuall Penſion of twentie Markes for his life, the Foote<g ref="char:EOLhyphen"/>man deſired to be let downe the Caſtle wall about what time the Tyde had ebb'd three houres, or flowed one chooſing to be let downe from that part of the wall that regarded the Sea, becauſe at that height he knew that no watch would be kept by the Rebels on that ſide, ſo that he might paſſe through (which he belike had often done in matters of leſſer weight) without being ſpied, or if he were, he made it a Queſtion whether any would venter after him, except they knew the paſſages of the Foord as well as he, his project being well li<g ref="char:EOLhyphen"/>ked of by the Earle, and all that could judge of it, about ſix or ſeauen in the Euening the tide was Flowing as <hi>Dominick</hi> would have it, downe he went in a knotted Roape the Earle firſt ſhaking him by the hand, and <hi>Dominick</hi> onely ſpeaking theſe words, I warrant you my Lord being downe he gave the Roape three ſhakes and away, in that ſtill and ſtealing manner, that they could not heare the water once ſtirre, he came that Evening about nine of the clocke unto <hi>Tallough,</hi> related unto Sr. <hi>Simon</hi> the Earles eſtate, how he came forth and to what end, eate ſomething with us and away to <hi>Liſmore,</hi> eighteene long Jriſh Miles, from thence to <hi>Limcon</hi> nine Myles, <hi>Dominicke</hi> did his buſineſſe ſo well, that on Thurſday, the Earles, of <hi>Kildare</hi> and <hi>Barimore,</hi> with Captayne <hi>John Paget,</hi> Captaine <hi>Herbert Nicholas</hi> a Gentleman well experienced in the warres in the Queenes time, Captayne <hi>Baniſter,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Ducke,</hi> with foure thouſand men, the cheifeſt and moſt being my Lords Tenants.</p>
+            <p>Theſe marched by in good order and better reſolution, vow<g ref="char:EOLhyphen"/>ing that they would either quire cleere my Lord their great Land-lord, or that <hi>Youghall</hi> ſhould prove their grave, Sir <hi>Sy<g ref="char:EOLhyphen"/>mon<g ref="char:punc">▪</g>
+               </hi>
+               <pb facs="tcp:47085:4"/>himſelfe, accompanied with theſe two Earles, with 300 horſe, and left order with Sir <hi>Tho: Temple</hi> to follow with 200 more if occaſion ſhould ſo require, whereof he would doe his beſt to give him notice, more force he would not joyne with them, becauſe he was not nor could not be certified of <hi>But<g ref="char:EOLhyphen"/>lers</hi> proceedings, whether he had any attempt either by him<g ref="char:EOLhyphen"/>ſelfe or with ſome other upon <hi>Tallough,</hi> or that he was joyned with the Rebels in <hi>Youghall,</hi> which afterward we found to be ſo, when this reſolute crew came within a mile and halfe of <hi>Youghall,</hi> the Rebels vnited came out ſtoutly in battalia againſt us in number to our deeming ſome 6000. having the oddes of us in number ſomewhat, although we had it of them in Armes and men, Sir <hi>Symon</hi> did not approue of charging them with horſe at the firſt, becauſe he was jealous of the ground, hearing of ſo miſerable a chance of the <hi>Scots</hi> not 3. dayes be<g ref="char:EOLhyphen"/>fore, but Captaine <hi>Paget</hi> aſſured him that he knew the place perfectly, and that it was firme and ſure both for horſe and man, yet Sir <hi>Simon</hi> would not charge with horſe but onely flanked them, and brought up the foote in maine Battalia, ve<g ref="char:EOLhyphen"/>ry ſtoutly commanding to give fire at ſuch and ſuch diſtance, the Enemy received the firſt and ſecond Volley very manful<g ref="char:EOLhyphen"/>ly, and anſwered it very reſolutely, but there was great oddes in Armes, at the third Volley they began manifeſtly to faile: whereupon grew a difference between Sir <hi>Simon Harcourt,</hi> and Captaine <hi>Paget</hi> crying now it's time for your horſe, and Sir <hi>Simon</hi> commanding advance as you are horſe time enough, whoſe command was followed, for the Vanne, winged with ſome 2. Hundred Horſe, aſide Marched up to the very beards of the <hi>Rebels,</hi> who dropped exceeding faſt, not able to en<g ref="char:EOLhyphen"/>dure the fierceneſſe of our Fire-men, which indeed were able men being a great many old Soldiers that had ſerved in the beginning of King <hi>Iames</hi> his Raigne, the <hi>Rebels</hi> not longer able to endure either our Shot or order, gave up openly, and not onely retreated but plainly tooke themſelves to their heeles, caſting away their Callivers, and other armes, to make the more ſpeed, then cryed Sr. <hi>Simon</hi> charge Cavaliers
+<pb facs="tcp:47085:5"/>but not to farr for feare of Bogs, which being done, there was execution both by Horſe and Foot, ſome halfe a Mile, for the place is held as vile for Boggs and Mariſhes as any whatſoever in the Kingdome, wherevpon Sr. <hi>Symon</hi> would by no meanes purſue farre with his Horſe, and with the Foot it was no boot the Jriſh are to hard for all the world at that, there was ſlaine vpon the Ground Sr. <hi>Patricke Roach,</hi> ſecond Sonne vnto the Lord <hi>Roach,</hi> and one <hi>Macke Odonnell</hi> who was called by them the white Knight, with 900. others, <hi>Barrie</hi> being mortally wounded, was carried by us into <hi>Yogall,</hi> at whoſe Gates with<g ref="char:EOLhyphen"/>out confeſſion we preſently Hanged him, and ſome time after ſtrooke of his Head, and pitched it vpon the Caſtle Gate, his Quarters likewiſe in divers parts of the Towne, he hath bin a notable villaine and at his execution profeſſeth himſelfe for<g ref="char:EOLhyphen"/>rie that he had tortured no more of vs, my Lord of <hi>Corke</hi> met us in the midſt of the Towne, and hartily congratulated vs all for his keepers would waite no longer vpon him, ſeeing they were likely to loſe both Fees and Priſoner, the truth is when the Rebells iſſued out of the Towne againſt vs, they left Butler with 1500. to aſſault the Caſtle, who gave my Lord 3 furious aſſaults, and at the third by ſlings of Roapes and Ladders of Roapes, and other ſlight Wodden Ladders they being nimble got up 15 of them to the Batlements, but were ſent downe in greater haſt then they came thither, <hi>But<g ref="char:EOLhyphen"/>ler</hi> ſeeing that he could doe no good vpon the Caſtle, and knowing that all was loſt abroad, left my Lord without take<g ref="char:EOLhyphen"/>ing leaue, and ſhifted for himſelfe, Thus have we gotten <hi>Yogall</hi> againe, and hope ſhortly to quiet <hi>Munſter,</hi> whatſo<g ref="char:EOLhyphen"/>ever ſhall become of the other Provinces.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
